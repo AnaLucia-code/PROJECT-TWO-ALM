@@ -1,4 +1,4 @@
-Pitch for Project #2
+Pitch for Project #2 03.27.2020
 Ana Lucia Murillo
 
 Anecdotal evidence shows that more Americans are fostering and adopting pets since the coronavirus pandemic began to spread. Using Google Trends data, I’d like to see how searches for “pet adoption,” and similar search terms are rising or not. From what I’ve seen so far, searches are up from a year ago. I can follow the trend over the next week or two.
